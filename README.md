@@ -11,3 +11,4 @@ Class Diagram
 ![Class Diagram](https://github.com/x0heart/Nuclear_Power_Plant_APS/blob/main/class_diagram.png)
 
 Flowchart
+![Flowchart](https://github.com/x0heart/Nuclear_Power_Plant_APS/blob/main/Flowchart.png)
